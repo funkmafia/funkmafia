@@ -1,7 +1,3 @@
-<p position="center">
-  <img src="assets/Zaks-blueprint-banner.png" alt="Zak's Blueprint Banner" width="300" />
-</p>
-
 # 🍊 Zak 🍊 Full-Stack Developer | Creative Problem Solver
 
 Blending clean UI with smart logic, I’m on a mission to craft solutions that make life easier and more inspired. I’m currently deep in a full-time software engineering bootcamp, building real-world SaaS tools across finance, productivity, language, and tech; by turning bold ideas into apps that _actually work_.
@@ -50,3 +46,7 @@ Coming soon... but the blueprint’s in motion 🧭
 ---
 
 **Bold. Aspirational. Creative. Professional, with just the right splash of personality.**
+
+<p position="center">
+  <img src="assets/Zaks-blueprint-banner.png" alt="Zak's Blueprint Banner" width="300" />
+</p>
