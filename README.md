@@ -1,5 +1,5 @@
 <p position="center">
-  <img src="./assets/banner.png" alt="Zak's Blueprint Banner" width="800" />
+  <img src="assets/Zaks-blueprint-banner.png" alt="Zak's Blueprint Banner" width="400" />
 </p>
 
 # 🍊 Zak 🍊 Full-Stack Developer | Creative Problem Solver
