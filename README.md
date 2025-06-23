@@ -1,5 +1,5 @@
 <p position="center">
-  <img src="assets/Zaks-blueprint-banner.png" alt="Zak's Blueprint Banner" width="400" />
+  <img src="assets/Zaks-blueprint-banner.png" alt="Zak's Blueprint Banner" width="300" />
 </p>
 
 # 🍊 Zak 🍊 Full-Stack Developer | Creative Problem Solver
@@ -33,6 +33,7 @@ Blending clean UI with smart logic, I’m on a mission to craft solutions that m
 
 Ex-mortgage advisor **→** full-stack creator.  
 When I’m not coding, I’m probably:
+
 1 - Lifting in the gym 💪  
 2 - Hiking the peaks 🏞️  
 3 - Blending up wild smoothie combos 🥑🍌
