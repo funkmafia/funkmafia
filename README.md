@@ -4,7 +4,7 @@ I’m on a mission to craft solutions that make life easier and more inspired. I
 
 ---
 
-### 🛠️ Tech Stack (so far)
+### Tech Stack (so far)
 
 - JavaScript (ES6+)
 - React & Next.js 
