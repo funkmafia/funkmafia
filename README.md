@@ -14,7 +14,7 @@ I’m on a mission to craft solutions that make life easier and more inspired. I
 - Git & GitHub 
 - Shadcn/ui 
 - OpenAI API 
-
+- JAVA ... in progress !
 ---
 
 ### Featured Projects
@@ -31,8 +31,8 @@ Ex-mortgage advisor **→** full-stack creator.
 When I’m not coding, I’m probably:
 
 1 - Lifting in the gym  
-2 - Hiking the peaks 
-3 - Blending up wild smoothie combos
+2 - Hiking the peaks  
+3 - Blending up wild smoothie combos  
 4 - Coding with an empire mindset 
 
 
