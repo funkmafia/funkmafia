@@ -10,11 +10,13 @@ I’m on a mission to craft solutions that make life easier and more inspired. I
 - React & Next.js 
 - Tailwind CSS 
 - Node.js + Express 
-- MongoDB 
+- MongoDB
+- Java
+- **Python (In progress)**
 - Git & GitHub 
 - Shadcn/ui 
 - OpenAI API 
-- JAVA ... in progress !
+
 ---
 
 ### Featured Projects
